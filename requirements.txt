@@ -15,7 +15,7 @@ apispec==3.3.2
 appdirs==1.4.4
 APScheduler==3.8.1
 argcomplete==1.12.3
-argon2-cffi==20.1.0
+argon2-cffi==21.3.0
 as==0.1
 asciitree==0.3.3
 asgiref==3.3.4
