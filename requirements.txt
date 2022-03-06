@@ -275,7 +275,6 @@ pytz-deprecation-shim==0.1.0.post0
 pytzdata==2020.1
 pyvips==2.1.14
 PyWavelets==1.1.1
-pywin32==303
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==22.0.3
